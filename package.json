@@ -1,0 +1,12 @@
+{
+  "name": "p3mat",
+  "version": "1.0.0",
+  "description": "Desenvolva um programa que desenhe no canvas uma circunferência, um ponteiro de \r segundos de um relógio. Esse ponteiro deve se mover tal como os ponteiros de segundo de um \r relógio analógico. A cada ciclo completo (60s) esse programa deve alterar a cor de fundo da \r circunferência e do ponteiro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
